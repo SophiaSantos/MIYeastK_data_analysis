@@ -8,5 +8,6 @@ R scripts with the code to produce all graphs present in the oral presentation o
 - venn diagrams
 - heatmaps
 
-### License
-MIT and GPL-2.0
+### References
+S. Santos, F. Liu, C. Costa, P. Vilaça, M. Rocha, I. Rocha. *MIYeastK: The Metabolic Integrated Yeast Knowledgebase* – SPB2016 - XIX National Congress of Biochemistry, Guimarães, Portugal, 8-10 December, 2016;
+
