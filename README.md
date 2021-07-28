@@ -7,3 +7,6 @@ R scripts with the code to produce all graphs present in the oral presentation o
 - bar plots
 - venn diagrams
 - heatmaps
+
+### License
+MIT and GPL-2.0
